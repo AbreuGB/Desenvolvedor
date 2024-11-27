@@ -12,7 +12,8 @@ O projeto acadêmico foi desenvolvido com o objetivo de oferecer uma plataforma 
 - Visualização e interação com banners de filmes.
 - Compra de ingressos.
 - Gerenciamento de sessões de usuários para manter o estado do login.
-
+- 
+## Layout
 **Seguem fotos do layout:**
 ![home.PNG](https://github.com/AbreuGB/Desenvolvedor/blob/ingresso_cinema/layout/home.PNG)
 ![compra.PNG](https://raw.githubusercontent.com/AbreuGB/Desenvolvedor/refs/heads/ingresso_cinema/layout/compra.PNG)
@@ -21,6 +22,7 @@ O projeto acadêmico foi desenvolvido com o objetivo de oferecer uma plataforma 
 
 ## Contribuições
 Contribuições são bem-vindas! Se você tiver sugestões ou melhorias, fique à vontade para abrir uma *issue* ou enviar um *pull request*.
+
 
 
 # #1 - GBNews 
