@@ -3,8 +3,8 @@
 
 ## Objetivo do Projeto
 O projeto acadêmico foi desenvolvido com o objetivo de oferecer uma plataforma simples e eficiente para a compra de ingressos de cinema. As funcionalidades principais incluem:
-- Login de usuário, pré estabelecidos -Login: "**Paulo**" ou "**Maria**"
-  Senha: "**1234**" ou "**4567**", respectivamente,
+- Login de usuário pré estabelecidos: "**Paulo**" ou "**Maria**"
+  Senha: "**1234**" ou "**4567**", respectivamente.
 - Visualização e interação com banners de filmes.
 - Compra de ingressos.
 - Gerenciamento de sessões de usuários para manter o estado do login.
@@ -40,6 +40,7 @@ O projeto acadêmico foi desenvolvido com o objetivo de oferecer uma plataforma 
 3. Abra os arquivos PHP no seu servidor local (ex: WAMP).
 4. Acesse o projeto no navegador.
 
+## Layout
 **Seguem fotos do layout:**
 ![home.PNG](https://github.com/AbreuGB/Desenvolvedor/blob/ingresso_cinema/layout/home.PNG)
 ![compra.PNG](https://raw.githubusercontent.com/AbreuGB/Desenvolvedor/refs/heads/ingresso_cinema/layout/compra.PNG)
