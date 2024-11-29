@@ -63,7 +63,7 @@ session_start();
             <img src="./imgs/integrantes/jonas.jpg" alt="jonas" srcset="">
             <section class="texto">
                 <h4>Jonas da Hora</h4>
-                <p>Redator de texto e artigos</p>
+                <p>Desenvolvedor Backend</p>
             </section>
         </article>
 
