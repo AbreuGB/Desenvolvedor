@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/07c44e19-e208-43a6-8223-f1deec35e10c)# #2 - INGRESSO BUY - Sistema de Compra de Ingressos
+# #2 - INGRESSO BUY - Sistema de Compra de Ingressos
 **IngressoBuy** é uma plataforma online para compra de ingressos para cinemas. O sistema permite aos usuários fazerem login, visualizar filmes disponíveis e comprar ingressos de maneira interativa.
 
 ## Objetivo do Projeto
@@ -42,6 +42,7 @@ O projeto acadêmico foi desenvolvido com o objetivo de oferecer uma plataforma 
 
 ## Layout
 **Seguem fotos do layout:**
+![home.PNG](https://github.com/user-attachments/assets/64177ba5-958e-462e-9c6f-f9277b25bf45)
 ![home1.PNG](https://github.com/user-attachments/assets/91f8bdf9-390d-4a20-8bc8-e5dc12fa1ca2)
 ![compra.PNG](https://github.com/user-attachments/assets/6a6ba916-6e87-4cf5-bb09-4221321caeac)
 ![contate-nos.PNG](https://github.com/user-attachments/assets/a9c9ae0c-c92b-474b-a50f-86ed27d59a39)
