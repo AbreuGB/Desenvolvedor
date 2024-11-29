@@ -12,13 +12,13 @@ O projeto acadêmico foi desenvolvido com o objetivo de oferecer uma plataforma 
 - Visualização e interação com banners de filmes.
 - Compra de ingressos.
 - Gerenciamento de sessões de usuários para manter o estado do login.
-- 
+
 ## Layout
 **Seguem fotos do layout:**
-![home.PNG](https://github.com/AbreuGB/Desenvolvedor/blob/ingresso_cinema/layout/home.PNG)
-![compra.PNG](https://raw.githubusercontent.com/AbreuGB/Desenvolvedor/refs/heads/ingresso_cinema/layout/compra.PNG)
-![contate-nos.PNG](https://raw.githubusercontent.com/AbreuGB/Desenvolvedor/refs/heads/ingresso_cinema/layout/contate-nos.PNG)
-![sobre-nos.PNG](https://raw.githubusercontent.com/AbreuGB/Desenvolvedor/refs/heads/ingresso_cinema/layout/sobre-nos.PNG)
+![home1.PNG](https://github.com/user-attachments/assets/91f8bdf9-390d-4a20-8bc8-e5dc12fa1ca2)
+![compra.PNG](https://github.com/user-attachments/assets/6a6ba916-6e87-4cf5-bb09-4221321caeac)
+![contate-nos.PNG](https://github.com/user-attachments/assets/a9c9ae0c-c92b-474b-a50f-86ed27d59a39)
+![sobre-nos.PNG](https://github.com/user-attachments/assets/389d4280-349b-4584-bec1-19575c8596e1)
 
 ## Contribuições
 Contribuições são bem-vindas! Se você tiver sugestões ou melhorias, fique à vontade para abrir uma *issue* ou enviar um *pull request*.
